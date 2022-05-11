@@ -1,0 +1,9 @@
+A tradução literal para branches seriam galhos, ou ramos. Se usarmos um pouco de imaginação, fica fácil entender como isso funciona.
+Cada branch abre um novo caminho de desenvolvimento, uma nova versão que pode ser trabalhada sem impactar no resultado da versão que se encontra no branch principal, master.
+Assim, é possível desenvolver novas funcionalidades sem comprometer aquelas que já estão implementadas no produto, assegurando que cada nova versão seja uma nova extensão, que herda as funcionalidades já implementadas da master, e pode, no futuro, vir a integrá-la, após ser testada e aprovada.
+
+git branch "novo branch"
+    - cria um novo branch
+
+git checkout "branch"
+    - alterna para o branch selecionado

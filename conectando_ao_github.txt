@@ -1,0 +1,5 @@
+Assim que você tiver um repositório criado no GitHub, pode conectar ele ao seu ambiente de trabalho usando um link https, disponível na própria página do repositório.
+
+Com o link https em mãos, você abre o seu terminal, e na pasta desejada roda o seguinte comando:
+
+git remote add origin https://link-do-repositorio-copiado-do-github

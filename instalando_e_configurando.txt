@@ -1,0 +1,11 @@
+A parte mais difícil de instalar e configurar foi entender como o Ubuntu do WSL interagia com os arquivos.
+
+O download foi realizado diretamente do site git-scm.com, e prontamente instalado no meu computador pessoal, Windows.
+A configuração foi relativamente simples, iniciei o terminal, e seguindo os comandos apresentados em aula digitei:
+
+git congig --global user.name "Vinnie Marchisio"
+git config --global user.email "vmrchs@gmail.com"
+
+Para me certificar que ralizar tudo corretamente até então, rodei:
+
+git config --list

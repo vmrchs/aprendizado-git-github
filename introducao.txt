@@ -1,0 +1,6 @@
+No primeiro contato, este módulo elucidou o que é o git, sistema de controle de versionamento, amplamente difundido entre desenvolvedores de software.
+
+Ele possibilita que sejam criados ambientes de trabalho compartimentados, que podem ser aprimorados individualmente antes de se tornarem funcionais no código principal do projeto.
+Isso possibilita não só o devido arquivamento de cada versão de um projeto, mas também sua devida recuperação (caso se faça necessária).
+Além disso, facilita a visualização e comparação das diferenças estabelecidas entre cada versão, bem como viabiliza que diferentes contribuidores desenvolvam, ao mesmo tempo, a mesma ou diferentes partes do código.
+Também nos assegura a capacidade de aprovar, ou não, um segmento de código novo ou refatorado, antes de integrá-lo ao produto.
